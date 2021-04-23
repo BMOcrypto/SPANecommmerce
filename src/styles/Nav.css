@@ -1,0 +1,31 @@
+.link {
+    color: #004987;
+    text-decoration: none;
+    font-family: "inter-medium";
+    font-size: 15px;
+}
+
+.link:hover {
+    font-size: 15.2px;
+    color: #52acf4;
+    text-decoration: none;
+}
+
+.d-active {
+    border-bottom: 3px solid #f1ad2c;
+}
+
+.line {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+    border-top: 2px solid #52acf4 !important;
+}
+
+.direccion,
+.contact,
+.cart {
+    color: #004987;
+    font-family: "inter-regular";
+    font-size: 14px;
+}

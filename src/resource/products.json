@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 10,
+            "title": "Nat. Watermelon Blueberry",
+            "type": "flavor",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "price": 173.68,
+            "rating": 4
+        },
+        {
+            "id": 24,
+            "title": "N&A Blueberry Smash",
+            "type": "flavor",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "price": 143.68,
+            "rating": 4
+        },
+        {
+            "id": 34,
+            "title": "Buby Red Raspberry",
+            "type": "color",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "price": 112.68,
+            "rating": 4
+        },
+        {
+            "id": 11,
+            "title": "Cloud #b122",
+            "type": "cloud",
+            "description": "Raw organic brown eggs in a basket",
+            "price": 281.1,
+            "rating": 4
+        },
+        {
+            "id": 12,
+            "title": "Sweet fresh stawberry",
+            "type": "flavor",
+            "description": "Sweet fresh stawberry on the wooden table",
+            "price": 29.45,
+            "rating": 4
+        },
+        {
+            "id": 13,
+            "title": "Asparagus",
+            "type": "flavor",
+            "description": "Asparagus with ham on the wooden table",
+            "price": 188.95,
+            "rating": 3
+        },
+        {
+            "id": 14,
+            "title": "Blue #6253",
+            "type": "color",
+            "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+            "price": 127.68,
+            "rating": 4
+        },
+        {
+            "id": 15,
+            "title": "Nat. Peach",
+            "type": "flavor",
+            "description": "Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.",
+            "price": 25.62,
+            "rating": 3
+        }
+    ]
+}
